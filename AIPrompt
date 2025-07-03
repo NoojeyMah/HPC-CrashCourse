@@ -1,0 +1,1 @@
+Write Python code for creating a fractal. Include comments and formatting. Assume the user is unaware of any packages used in the code and create the comments accordingly. Make one for the Mandelbrot Set and one for the Sierpinski Triangle. Have at least one parameter that is available to change and make it so the input changes how the fractal looks.
